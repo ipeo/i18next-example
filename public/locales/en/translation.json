@@ -1,0 +1,7 @@
+{
+  "example": {
+    "title": "Example using i18next and i18next-parser",
+    "intro": "We can also use Trans tag, to put <1>custom tag element like this one</1> in the translation",
+    "newtext": "[TODO add text and translation]"
+  }
+}

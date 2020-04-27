@@ -1,0 +1,10 @@
+{
+  "This is a test without i18nKey": "This is a test without i18nKey.",
+  "{t('example": {
+    "test', 'This is a test')}": "{t('example.test', 'This is a test')}"
+  },
+  "example": {
+    "test": "This is a test.",
+    "new": "This is a new text"
+  }
+}
