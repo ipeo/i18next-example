@@ -8,7 +8,7 @@ class Example extends Component {
     return (
       <div>
         <div>
-          <button onClick={() => i18n.changeLanguage('fr')}>fançais</button>&nbsp;
+          <button onClick={() => i18n.changeLanguage('fr')}>français</button>&nbsp;
           <button onClick={() => i18n.changeLanguage('en')}>english</button>
         </div>
         <h1 className="App-title">{t('example.title', 'Example using i18next and i18next-parser')}</h1>
